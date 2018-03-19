@@ -6,10 +6,10 @@ Para quem é novo na área, a ideia é ser um exemplo para ver como é. Para que
 
 A maior parte das "Maldades" segue um roteiro bem padrão:
 
-1 - Carregar um CSV
-2 - Preparar os dados
-3 - Treinar e Validar
-4 - Avaliar a performance (normalmente com gráficos bacaninhas)
+1. Carregar um CSV
+2. Preparar os dados
+3. Treinar e Validar
+4. Avaliar a performance (normalmente com gráficos bacaninhas)
 
 Eventualmente isso muda, principalmente em análises exploratórias.
 
